@@ -1,0 +1,22 @@
+<layer>
+  <name>deals_by_country_centroid</name>
+  <id>LayerInfoImpl--20518f4f:19ade2af180:-7fdb</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--6a77b788:19ab5d15586:-8000</id>
+  </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl--20518f4f:19ade2af180:-7fd9</id>
+    </style>
+  </styles>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--20518f4f:19ade2af180:-7fdc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2025-12-02 08:59:01.559 UTC</dateCreated>
+  <dateModified>2025-12-02 09:00:03.823 UTC</dateModified>
+</layer>
